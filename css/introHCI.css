@@ -12,7 +12,7 @@
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
 body {
-     border: 1px dotted gray;
+     border: 100px dotted #ba3f3f;
      padding: 20px;
 }
 
@@ -32,3 +32,8 @@ body {
      position: absolute;
      z-index: -1;	
 }
+
+.project p {
+     font-variant: small-caps;
+}
+
